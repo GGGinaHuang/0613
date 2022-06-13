@@ -1,0 +1,43 @@
+@charset "utf-8";
+.p1 {
+    height: 300px;
+    background-image: url(https://www.collinsdictionary.com/images/full/japan_147744140_1000.jpg);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
+.p2 {
+    height: 300px;
+    background-image: url(https://media.timeout.com/images/105240237/image.jpg);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
+.p3 {
+    height: 300px;
+    background-image: url(https://theinvisibletourist.com/wp-content/uploads/2018/09/featured_79.jpg);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
+.p4 {
+    height: 300px;
+    background-image: url(https://static01.nyt.com/images/2020/03/26/world/26japan-virus01/merlin_170980464_6560314b-4036-4d1f-a729-24e20212a1cf-superJumbo.jpg);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
+.p5 {
+    height: 300px;
+    background-image: url(https://images.hindustantimes.com/img/2021/10/29/550x309/Virus-Outbreak-Japan-Tourism-1_1635494202474_1635494248306.jpg);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
+.p6 {
+    height: 600px;
+    background-image: url(https://www.traveldailymedia.com/assets/2020/07/japan-tourism3.jpg);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
